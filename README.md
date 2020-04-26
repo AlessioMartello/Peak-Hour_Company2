@@ -1,18 +1,18 @@
 # Peak-Hour_Company2
 
-A script to automate the calculation of the hour of the day with the largest traffic flow, fom traffic survey data.
+A script to automate the calculation of the hour of the day with the largest traffic flow, from traffic survey data.
 
 This script works for COMPANY 2 surveys.
 
 Download the script.
 
-Ensure the all the Excel spreadsheed to be analysed is in the same folder as the script.
+Ensure the all the Excel spreadsheet to be analysed is in the same folder as the script.
 
 Run the script in Jupyter Notebook.
 
 Copy the file name and paste it in when prompted.
 
-You will be prompted for the number of intervals (AM peak, Inter peak, PM peak). If surveys were carried out over numerous days, enter the number of survey intervals irregardless. Enter this as an integer.
+You will be prompted for the number of intervals (AM peak, Inter peak, PM peak). If surveys were carried out over numerous days, enter the number of survey intervals regardless. Enter this as an integer.
 
 You will be prompted for the number of hours in all but the last interval, in order of appearance in the excel spreadsheet. Enter each as integers and press enter after each value.
 
