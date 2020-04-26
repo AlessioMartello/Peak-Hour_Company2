@@ -4,7 +4,7 @@ A script to automate the calculation of the hour of the day with the largest tra
 
 This script works for COMPANY 2 surveys.
 
-Download the most rescent script.
+Download the script.
 
 Ensure the all the Excel spreadsheed to be analysed is in the same folder as the script.
 
