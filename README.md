@@ -1,7 +1,5 @@
 # Peak-Hour_Company2
 
-A script to automate the calculation of the hour of the day with the largest traffic flow, from traffic survey data.
-
 This script works for COMPANY 2 surveys.
 
 Download the script.
